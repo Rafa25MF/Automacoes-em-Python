@@ -13,7 +13,7 @@ Um repositório com diversas automações desenvolvidas em Python para facilitar
 Aqui você encontra diferentes tipos de automações, como por exemplo:
 
 - Manipulação de arquivos e pastas automaticamente
-- Web scraping e coleta de dados
+- Gerador de Senhas
 - Automatização de tarefas repetitivas
 - Envio de e-mails automatizados
 - Integração com APIs externas
