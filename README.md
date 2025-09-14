@@ -2,6 +2,10 @@
 
 Um repositório com diversas automações desenvolvidas em Python para facilitar tarefas do dia a dia, otimizar processos e aprender técnicas de programação prática.
 
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()  
+[![Python](https://img.shields.io/badge/python-3.9-blue?logo=python)]()  
+[![License](https://img.shields.io/badge/license-Rafa25MF-green)]()  
+
 ---
 
 ## 🚀 Funcionalidades
