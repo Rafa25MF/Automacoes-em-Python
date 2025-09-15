@@ -14,10 +14,9 @@ Aqui você encontra diferentes tipos de automações, como por exemplo:
 
 - Manipulação de arquivos e pastas automaticamente
 - Gerador de Senhas
-- Automatização de tarefas repetitivas
+- Gerador de QR Code
 - Envio de e-mails automatizados
-- Integração com APIs externas
-- Scripts utilitários para produtividade
+- Integração com APIs externas.
 
 > Este repositório está em constante atualização com novos scripts e melhorias.
 
